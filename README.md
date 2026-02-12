@@ -11,5 +11,11 @@ Customers raise order-related issues through portal or email.
 - Managed customer cases with different priorities
 - Implemented automation for high-priority cases
 
+### Skills Demonstrated
+- ServiceNow CSM fundamentals
+- Case type configuration
+- Priority-based case handling
+- Basic automation (UI Policy / Assignment)
+
 ### Outcome
 Improved customer experience through structured case handling and faster resolution.
